@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzacolpa)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirzacolpa)](https://github.com/anuraghazra/github-readme-stats)--->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cmirza)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzacolpa&size_weight=0.5&count_weight=0.5)
 <!---

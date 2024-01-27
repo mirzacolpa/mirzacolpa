@@ -8,7 +8,7 @@
 </a>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cemirza" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza" />
 </div>
 
 

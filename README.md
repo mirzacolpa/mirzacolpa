@@ -8,7 +8,7 @@
 </a>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza"/>
 </div>
 
 

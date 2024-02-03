@@ -7,7 +7,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 - The IDEs I work with:
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat&logo=visual-studio-code)
@@ -27,6 +26,7 @@
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 - Currently learning about:
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)

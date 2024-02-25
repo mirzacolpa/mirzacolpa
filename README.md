@@ -55,7 +55,7 @@
 -->
 <br>
 <be>
-<h3>This year so far...</h3>
+<h3>This Month so far...</h3>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
 </div>

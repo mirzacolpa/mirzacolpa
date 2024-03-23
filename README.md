@@ -25,6 +25,7 @@
 
 - Frameworks I use:
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+  [![Flask](Badge_URL)](https://flask.palletsprojects.com/)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)

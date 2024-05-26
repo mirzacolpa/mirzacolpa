@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mirzacolpa:
 
-<div style="text-align:center">
 -   Languages I code with:  
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
   ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)
@@ -40,7 +39,6 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-</div>
 <br>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -40,27 +40,6 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 
-
-<!-- Currently working on: -->
-<style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-        }
-        .container {
-            text-align: center;
-        }
-        .badges img {
-            margin: 5px;
-        }
-  </style>
-
-
 <br>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">

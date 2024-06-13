@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mirzacolpa:
 
-
 -   Languages I code with:  
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
   ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)

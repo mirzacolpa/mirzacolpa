@@ -34,23 +34,34 @@
 
 <br>
 
-<div >
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirzacolpa&theme=radical" />
   </a>
-  <!--
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzacolpa&size_weight=0.5&count_weight=0.5&theme=radical#gh-dark-mode-only" />
   </a>
-  -->
 </div>
 
 <br>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
 </div>
 
-<!---
-mirzacolpa/mirzacolpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link
+<br>
+
+<div align="center">
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mirzacolpa&style=for-the-badge)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mirzacolpa&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your

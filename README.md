@@ -1,5 +1,6 @@
 # Hi, I’m @mirzacolpa 👋 <a href="https://linkedin.com/in/yourusername" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mirzacolpa.mirzacolpa)
 </a>
 
 <div align="center">
@@ -36,6 +37,8 @@
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirzacolpa&theme=radical" />
@@ -46,7 +49,7 @@
   </a>
   -->
   <div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+  
 
   </div>
 
@@ -58,13 +61,15 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
 </div>
 <be>
-
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=mirzacolpa&style=for-the-badge)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mirzacolpa&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mirzacolpa.mirzacolpa)
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </div>

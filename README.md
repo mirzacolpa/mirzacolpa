@@ -45,7 +45,11 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzacolpa&size_weight=0.5&count_weight=0.5&theme=radical#gh-dark-mode-only" />
   </a>
   -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+  <div>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+
+  </div>
+
 </div>
 
 <br>

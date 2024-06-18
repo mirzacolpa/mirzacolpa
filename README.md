@@ -1,6 +1,9 @@
-# Hi, I’m @mirzacolpa 👋 <a href="https://linkedin.com/in/yourusername" target="_blank">
+# Hi, I’m @mirzacolpa 👋 
+<!--
+<a href="https://linkedin.com/in/yourusername" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
 </a>
+-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge"/>

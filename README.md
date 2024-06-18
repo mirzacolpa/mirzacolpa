@@ -45,7 +45,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
 </div>
 

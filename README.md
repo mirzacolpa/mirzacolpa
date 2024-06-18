@@ -38,30 +38,41 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirzacolpa&theme=radical" />
   </a>
+  <!--
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzacolpa&size_weight=0.5&count_weight=0.5&theme=radical#gh-dark-mode-only" />
   </a>
+  -->
 </div>
 
 <br>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
 </div>
+<be>
 
-<br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=mirzacolpa&style=for-the-badge)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirzacolpa&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mirzacolpa.mirzacolpa)
 <div align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark)
-  ![Profile Views](https://komarev.com/ghpvc/?username=mirzacolpa&style=for-the-badge)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mirzacolpa&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
+<br>

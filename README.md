@@ -43,8 +43,9 @@
 </div>
 -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mirzacolpa&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
+
 
 <br>
 

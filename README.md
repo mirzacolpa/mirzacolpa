@@ -35,11 +35,13 @@
 </div>
 
 <br>
+<!--
 <div align="center">
   <a href="https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark">
     <img src="https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark" alt="GitHub Activity Graph" />
   </a>
 </div>
+-->
 <br>
 
 <div align="center">

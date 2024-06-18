@@ -36,8 +36,9 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
-
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical)](https://git.io/streak-stats)
+</div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirzacolpa&theme=radical" />

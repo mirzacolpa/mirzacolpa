@@ -66,10 +66,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
-</div>
-<be>
+
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mirzacolpa&theme=react-dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=mirzacolpa&style=for-the-badge)

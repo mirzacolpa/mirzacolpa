@@ -11,12 +11,12 @@
 
 
 
-- The IDEs I work with:
-  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat&logo=visual-studio-code)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-blueviolet?style=flat&logo=visual-studio)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-orange?style=flat&logo=pycharm)
-  ![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat&logo=apache-netbeans-ide)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide)
+## IDEs I Work With:
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-blueviolet?style=for-the-badge&logo=visual-studio)
+![PyCharm](https://img.shields.io/badge/PyCharm-orange?style=for-the-badge&logo=pycharm)
+![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=apache-netbeans-ide)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide)
 
 
 - Databases:

@@ -58,13 +58,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzacolpa&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
--->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cmirza&theme=radical#gh-dark-mode-only"/>
 </div>
 
-<!--
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirzacolpa&theme=radical" />
@@ -73,6 +72,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzacolpa&size_weight=0.5&count_weight=0.5&theme=radical#gh-dark-mode-only" />
   </a>
+  
 -->
 </div>
 
